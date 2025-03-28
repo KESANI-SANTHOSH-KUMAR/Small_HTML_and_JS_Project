@@ -1,0 +1,119 @@
+/*..............................home.css ..........................*/
+
+
+img{
+    height:210px;
+    width:400px;
+     border: solid 4px whitesmoke;
+     background-size:400px ; 
+     border-radius: 20px;  
+           
+ }
+ img:hover{
+     box-shadow: 10px 10px rgb(75, 91, 91);      
+ }
+ .im{
+     height:190px;
+     width:140px;
+     margin: 20px;
+ }
+ .img1{
+    
+     gap:20px;
+     background-color: aqua;
+ }
+  div{
+     width:1480;
+     height:240;       
+     border-radius:25px;  
+     border: solid 4px white;  
+     display:flex;
+     align-self: center; 
+     place-items: center;
+     
+ }
+ h1{
+    text-shadow: 2px 1px rgb(245, 199, 138) ; 
+    color:brown;
+    
+ }
+ #d1{
+     background-color:aqua;     
+     justify-content: space-between;
+     padding: 10px;
+ }
+
+ #d2{
+     background-color:darksalmon;    
+     justify-content: space-between;
+     padding: 10px;       
+ }
+
+ #d3{
+     background-color:cadetblue;  
+     justify-content: space-between;
+     padding: 10px;      
+ }
+
+ #d4{
+     background-color:aquamarine;
+     justify-content: space-between;
+     padding: 10px;
+ }
+ div:hover{
+     box-shadow: 10px 8px rgb(242, 225, 225);
+ }
+.a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 18; 
+    color:rgb(52, 52, 57);
+    
+ }
+ nav:hover{
+     box-shadow: 5px 5px 15px black;
+ }
+ nav{
+     border: 4px solid black;
+     background-color: aqua;
+     border-radius: 25px;
+     height: 40px;
+      display:flex;
+      align-items: center;       
+ }
+
+
+/*..............................HT1.css ..........................*/
+h1{
+    text-align: center;
+}
+form{
+    
+    border: 8px solid blanchedalmond;
+    border-radius: 25px;
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    font-size: 30px;
+    background-color:aqua;
+
+}
+.s1:hover{
+    box-shadow: 0 0 15px rgba(5, 5, 5, 0.934);
+}
+/*..............................login.css ..........................*/
+
+#login.form{
+    border: 8px solid blanchedalmond;
+    border-radius: 25px;
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    font-size: 30px;
+    background-color:aqua;
+  
+}
+.s2:hover{
+    box-shadow: 0 0 15px rgba(7, 7, 7, 0.896);
+}
+
